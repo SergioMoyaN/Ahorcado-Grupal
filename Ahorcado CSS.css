@@ -6,7 +6,7 @@ body {
       }
 	  
 h1 {
-	     font-size: 70px;
+	     font-size: 90px;
 		 font-weight: bold;
    }
 		  
@@ -28,9 +28,10 @@ body {
      }
 	   
 #demotext {
-color: #FFFFFF;
-text-shadow: 1px 3px 0 #969696, 1px 13px 5px #aba8a8;
-color: #FFFFFF;
+color: #000000;
+text-shadow: #FFF 0px 0px 5px, #000 0px 0px 5px, #FFF 0px 0px 15px, #00FAFF 0px 0px 5px, #00FAFF 0px 0px 30px, #00FAFF 0px 0px 40px, #00FAFF 0px 0px 50px, #FF2D95 0px 0px 40px;
+color: #000000;
+opacity: 0.8;
 }
 
 .scale-up-bottom {
@@ -150,7 +151,7 @@ body {
   background: none;
   perspective: 2em;
   font-family: "Raleway", sans-serif;
-  font-size: 2em;
+  font-size: 0.7em;
   font-weight: 900;
   letter-spacing: 1em;
 
