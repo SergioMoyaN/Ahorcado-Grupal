@@ -336,3 +336,8 @@ body {
     font-size: 1em;
   }
 }
+
+#ahorcado{
+	heigth:318px;
+	width:307px;
+	background-image: url('./hangman-game_pm-1320x273.png');
